@@ -3,7 +3,7 @@
 This repository contains code and resources for large language models (LLMs) in token-level clinical named entity recognition (NER) on rare disease datasets, specifically working with the RareDis dataset.
 
 ## Dataset
-The original RareDis-v1 dataset should have the following structure. Please refer to the original authors of the RareDis dataset for access to the raw data. Once you have obtained the data, you can use brat2iob.py to convert the raw data (BRAT format) to IOB format. You can also directly use the converted data.
+The original RareDis-v1 dataset should have the following structure. Please refer to the authors of the RareDis dataset for access to the raw data. Once you have obtained the data, you can use brat2iob.py to convert the raw data (BRAT format) to IOB format. You can also directly use the converted data.
 ```
 RareDis-v1
 ├── dev                   
