@@ -40,8 +40,18 @@ pip install -r requirements.txt
 You can find an example of model output in **gpt4-1106-preview-chat_[all]_5shot_result_test**, showcasing predictions from a GPT-4 model with 5-shot learning.
 
 
+## References
 
+If you find this code useful, please consider citing our works:
 
+```bibtex
+@article{lu2024large,
+  title={Large Language Models Struggle in Token-Level Clinical Named Entity Recognition},
+  author={Lu, Qiuhao and Li, Rui and Wen, Andrew and Wang, Jinlian and Wang, Liwei and Liu, Hongfang},
+  journal={arXiv preprint arXiv:2407.00731},
+  year={2024}
+}
+```
 
 
 
